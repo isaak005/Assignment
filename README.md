@@ -17,15 +17,18 @@ Lambda-Calculus (LC) is the model (or language) of computation (i.e. programming
 A computer, a digital information-processing machine, works by changing information into binary numbers (ones and zeros) and then using simple mathematics to make decisions about how to rearrange those numbers into words or actions. A digital system stores and operates on information in a very specific way by storing information in a bit (or multiple collections of bits). A bit is a variable that can have only one of two values: it can either be a 1, or be a 0. There are two main things to understanding the basics of how a computer works: • A computer treats any type of information (not only numbers but also letters, words, dates) as if it consisted simply of binary ones and zeros. For example, a computer can translate the letter “A” typed into its keyboard into a string of ones and zeros, such as 1000001. One reason for this is that once it is in a binary form, the information can be stored and moved about more easily. On a hard disc, the “ones” could be stored as magnetized spots on the disc, while the zeroes can be stored as un-magnetized spots. Once information has been converted to ones and zeros, the computer can get to work.
  • The second point to consider is that the computer’s functions are based on the movement and transformation of electrical pulses (representing ones and zeroes) in electrical circuits. Inside the computer are electrical circuits that decode the zeros and ones, by adding and subtracting them. These circuits are called the logic of the computer, because the calculations they make are similar to simple logic decisions. For example, if you press the A key on the computer keyboard, circuits inside the computer receive pulses of electricity representing the A in binary form - 1000001. Those pulses are sent to logic circuits that make yes or no decisions based on the input they receive. A very simple example would be a circuit that determines whether the input send to it is a one or a zero. The output of the circuit is a new piece of information - a binary one or zero that is the result of the simple yes or no decision
 
-What is DNS?
+5. What is DNS?
 
 The DNS is a distributed database across a hierarchy of networks of 
 servers and provide ways for devices and software (like browsers and 
 email) to query the DNS to get an IP address.
+
 ● Domain names must be unique.
+
 ● Domain names are used for naming websites and email addresses
 Let’s look at a typical domain name.
 www.example.com
+
 ● “com” is the First Level Domain or Top Level Domain (TLD) 
 ● “example” is the Second Level Domain
 ● “www” is the Third Level Domain
