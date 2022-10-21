@@ -1,5 +1,5 @@
 # Assignment
-1. Transistor
+## 1. Transistor
 
 The discovery of the first transistor in 1948 by a team of physicists at the Bell Telephone Laboratories sparked an interest in solid-state research that spread quickly. The transistor, which began as a simple laboratory oddity, was rapidly developed into a semiconductor device of major importance. The transistor demonstrated for the first time in history that amplification in solids was possible. Before the transistor, amplification was achieved only with electron tubes. Transistors now perform numerous electronic tasks with new and improved transistor designs being continually put on the market. In many cases, transistors are more desirable than tubes because they are small, rugged, require no filament power, and operate at low voltages with comparatively high efficiency.
 Semiconductor devices that have three or more elements are called TRANSISTORS. The term transistor was derived from the words TRANSfer and resISTOR. This term was adopted because it best describes the operation of the transistor – the transfer of an input signal current from a low-resistance circuit to a high resistance circuit. Transistors were first used as amplifiers, but their use in digital circuits to create logic gates has driven the computing age.
